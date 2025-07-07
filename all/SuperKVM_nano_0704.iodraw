@@ -198,6 +198,9 @@
             <mxPoint x="1049" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="85vWp93jkx21iALrv6Tc-104" target="85vWp93jkx21iALrv6Tc-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-104" value="CH482&lt;div&gt;高速模拟开关&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="590" y="463.25" width="120" height="60" as="geometry" />
         </mxCell>
@@ -323,12 +326,6 @@
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-1" value="USB2.FS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="518" y="280" width="59" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="85vWp93jkx21iALrv6Tc-135" target="HpVElSZyhF7xPj0saIUb-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="925" y="195" as="sourcePoint" />
-            <mxPoint x="579" y="463" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-4" value="USB2.HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="550" y="347" width="59" height="30" as="geometry" />
