@@ -270,9 +270,6 @@
             <mxPoint x="990" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqmX3WN29iu3soDFGDb0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HpVElSZyhF7xPj0saIUb-2" target="85vWp93jkx21iALrv6Tc-104" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-135" value="USB 2.0 x3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="924.5" y="180" width="70" height="30" as="geometry" />
         </mxCell>
