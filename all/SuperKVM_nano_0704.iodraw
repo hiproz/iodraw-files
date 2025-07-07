@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-65" value="USB&amp;nbsp;&lt;div&gt;&amp;nbsp;Type C Port&lt;/div&gt;&lt;div&gt;①&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="280" y="480" width="70" height="105" as="geometry" />
+          <mxGeometry x="280" y="345" width="70" height="105" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-66" value="USB Hub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="380" y="200" width="95" height="397.5" as="geometry" />
