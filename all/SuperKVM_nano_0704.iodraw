@@ -148,11 +148,8 @@
             <mxPoint x="-5" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="85vWp93jkx21iALrv6Tc-76" target="85vWp93jkx21iALrv6Tc-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-76" value="USB2.0x2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="415" y="335" width="59" height="30" as="geometry" />
+          <mxGeometry x="416" y="287" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-77" value="HDMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1080" y="569.75" width="59" height="30" as="geometry" />
