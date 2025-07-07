@@ -270,7 +270,7 @@
             <mxPoint x="990" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gqmX3WN29iu3soDFGDb0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="85vWp93jkx21iALrv6Tc-135" target="85vWp93jkx21iALrv6Tc-104" edge="1">
+        <mxCell id="gqmX3WN29iu3soDFGDb0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HpVElSZyhF7xPj0saIUb-2" target="85vWp93jkx21iALrv6Tc-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-135" value="USB 2.0 x3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -324,8 +324,14 @@
         <mxCell id="HpVElSZyhF7xPj0saIUb-1" value="USB2.0x2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="415" y="370" width="59" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="85vWp93jkx21iALrv6Tc-135" target="HpVElSZyhF7xPj0saIUb-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="195" as="sourcePoint" />
+            <mxPoint x="579" y="463" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-2" value="hdm转 csi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="440" y="663.75" width="120" height="60" as="geometry" />
+          <mxGeometry x="518" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
