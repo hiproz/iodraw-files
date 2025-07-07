@@ -40,7 +40,7 @@
         <mxCell id="9CSuGL6i2XqxzYFYNTwu-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PMIC&amp;nbsp;&lt;/font&gt;&lt;div&gt;RK817&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="865.5" y="742.5" width="99" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="9CSuGL6i2XqxzYFYNTwu-10" value="MIPI&lt;div&gt;LCD&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="9CSuGL6i2XqxzYFYNTwu-10" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1080" y="506" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9CSuGL6i2XqxzYFYNTwu-11" value="LCD 座" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
