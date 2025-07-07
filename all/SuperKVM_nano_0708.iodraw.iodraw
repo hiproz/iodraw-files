@@ -371,8 +371,8 @@
         <mxCell id="HpVElSZyhF7xPj0saIUb-19" value="内置系统盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1180" y="866.5" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-21" value="Uart2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1004.5" y="430" width="89" height="30" as="geometry" />
+        <mxCell id="HpVElSZyhF7xPj0saIUb-21" value="Uart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="811" y="420" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
