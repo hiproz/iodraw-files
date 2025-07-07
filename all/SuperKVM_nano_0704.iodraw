@@ -20,7 +20,7 @@
           <mxGeometry x="100" y="554" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9CSuGL6i2XqxzYFYNTwu-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;RV11XX&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="780" y="421.5" width="385" height="530" as="geometry" />
+          <mxGeometry x="755" y="420" width="385" height="530" as="geometry" />
         </mxCell>
         <mxCell id="9CSuGL6i2XqxzYFYNTwu-3" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1081" y="866.5" width="59" height="30" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="280" y="480" width="70" height="105" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-66" value="USB Hub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="380" y="300" width="95" height="297.5" as="geometry" />
+          <mxGeometry x="380" y="200" width="95" height="397.5" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="85vWp93jkx21iALrv6Tc-49" target="85vWp93jkx21iALrv6Tc-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,6 +147,9 @@
           <mxGeometry x="-0.2306" y="2" relative="1" as="geometry">
             <mxPoint x="-5" y="-20" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="85vWp93jkx21iALrv6Tc-76" target="85vWp93jkx21iALrv6Tc-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-76" value="USB2.0x2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="415" y="335" width="59" height="30" as="geometry" />
