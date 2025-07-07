@@ -348,7 +348,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-13" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="347" width="59" height="30" as="geometry" />
+          <mxGeometry x="1471" y="347" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-14" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1481" y="357" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
