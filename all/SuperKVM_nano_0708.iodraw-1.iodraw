@@ -185,7 +185,7 @@
             <mxPoint x="920" y="460" as="sourcePoint" />
             <mxPoint x="970" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="540" y="493" />
+              <mxPoint x="480" y="493" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -329,6 +329,12 @@
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-24" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7sBMBziqThZriW8k0H2S-8" vertex="1">
           <mxGeometry x="59" y="87" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7sBMBziqThZriW8k0H2S-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7sBMBziqThZriW8k0H2S-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HpVElSZyhF7xPj0saIUb-1" target="7sBMBziqThZriW8k0H2S-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
