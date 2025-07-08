@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-76" value="USB2.0x2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="416" y="289" width="59" height="30" as="geometry" />
+          <mxGeometry x="416" y="271" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-77" value="HDMI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1080" y="569.75" width="59" height="30" as="geometry" />
