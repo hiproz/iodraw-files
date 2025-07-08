@@ -204,6 +204,7 @@
             <mxPoint x="539.5" y="398.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="540" y="493" />
+              <mxPoint x="540" y="286" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -306,14 +307,6 @@
         <mxCell id="HpVElSZyhF7xPj0saIUb-13" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1471" y="384" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HpVElSZyhF7xPj0saIUb-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1471" y="300" />
-            </Array>
-            <mxPoint x="630" y="300" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-18" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="800" width="60" height="30" as="geometry" />
         </mxCell>
@@ -322,11 +315,6 @@
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-21" value="Uart" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="811" y="420" width="89" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="HpVElSZyhF7xPj0saIUb-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="628" y="362" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
