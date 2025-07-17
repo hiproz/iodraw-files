@@ -262,7 +262,7 @@
         <mxCell id="YmQcqY68oottdXtq0iwH-15" value="USB&amp;nbsp;&lt;div&gt;&amp;nbsp;Type A Port&lt;/div&gt;&lt;div&gt;②&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="781" width="70" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="gqmX3WN29iu3soDFGDb0-1" value="usbotg" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="gqmX3WN29iu3soDFGDb0-1" value="usb HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="754" y="668.75" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqmX3WN29iu3soDFGDb0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="85vWp93jkx21iALrv6Tc-77" target="YmQcqY68oottdXtq0iwH-9" edge="1">
