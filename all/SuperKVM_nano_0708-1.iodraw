@@ -19,7 +19,7 @@
         <mxCell id="OE6j2u9FT9QKLkBRPnEU-4" value="&lt;b&gt;&lt;font&gt;HDMI Input&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="100" y="554" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9CSuGL6i2XqxzYFYNTwu-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;RV11XX&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="9CSuGL6i2XqxzYFYNTwu-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;GD32f407&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="755" y="420" width="385" height="530" as="geometry" />
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9CSuGL6i2XqxzYFYNTwu-3" target="HpVElSZyhF7xPj0saIUb-19" edge="1">
