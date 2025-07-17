@@ -216,7 +216,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oveiOlvz-zRsiQHKTwsT-1" value="Power Supply①&lt;div&gt;5-12V&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="110" y="659.25" width="110" height="54.5" as="geometry" />
+          <mxGeometry x="279" y="886" width="110" height="54.5" as="geometry" />
         </mxCell>
         <mxCell id="oveiOlvz-zRsiQHKTwsT-7" value="显示屏1.14寸&lt;div&gt;MiPi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1462" y="502.88" width="89" height="36.25" as="geometry" />
