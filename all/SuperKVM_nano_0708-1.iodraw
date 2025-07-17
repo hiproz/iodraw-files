@@ -160,7 +160,7 @@
         <mxCell id="85vWp93jkx21iALrv6Tc-104" value="usb2.0&lt;br&gt;&lt;div&gt;高速模拟开关&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="590" y="463.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="85vWp93jkx21iALrv6Tc-105" value="USB2.0 OTG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="85vWp93jkx21iALrv6Tc-105" value="USB2.0 FS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="755" y="478.25" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="85vWp93jkx21iALrv6Tc-104" target="HpVElSZyhF7xPj0saIUb-4" edge="1">
