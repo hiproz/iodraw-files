@@ -336,6 +336,9 @@
         <mxCell id="mVKlONjdu5OgrGHhsZRC-10" value="usb2.0hub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1040" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mVKlONjdu5OgrGHhsZRC-11" value="ch334" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
