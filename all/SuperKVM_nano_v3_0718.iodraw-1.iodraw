@@ -90,6 +90,9 @@
         <mxCell id="85vWp93jkx21iALrv6Tc-101" value="Uart2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="994.5" y="420" width="89" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_eJDbuwRnlXySfRcmWEh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="85vWp93jkx21iALrv6Tc-105" target="_eJDbuwRnlXySfRcmWEh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-105" value="USB2.0 HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="755" y="478.25" width="89" height="30" as="geometry" />
         </mxCell>
@@ -124,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YmQcqY68oottdXtq0iwH-8" value="&lt;b&gt;&lt;font&gt;HDMI Jack①&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="240" y="247.5" width="100" height="50" as="geometry" />
+          <mxGeometry x="265" y="155" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YmQcqY68oottdXtq0iwH-15" value="USB&amp;nbsp;&lt;div&gt;&amp;nbsp;Type A Port&lt;/div&gt;&lt;div&gt;②&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="280" y="781" width="70" height="105" as="geometry" />
