@@ -299,17 +299,13 @@
         <mxCell id="pwtXkA11epPTQpkq0u9u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pwtXkA11epPTQpkq0u9u-1" target="YmQcqY68oottdXtq0iwH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pwtXkA11epPTQpkq0u9u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pwtXkA11epPTQpkq0u9u-1" target="pwtXkA11epPTQpkq0u9u-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pwtXkA11epPTQpkq0u9u-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pwtXkA11epPTQpkq0u9u-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1039" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pwtXkA11epPTQpkq0u9u-1" value="usb2.0 hub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="979" y="165" width="81" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="pwtXkA11epPTQpkq0u9u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pwtXkA11epPTQpkq0u9u-2" target="85vWp93jkx21iALrv6Tc-101" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pwtXkA11epPTQpkq0u9u-2" value="ch334" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="979" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
