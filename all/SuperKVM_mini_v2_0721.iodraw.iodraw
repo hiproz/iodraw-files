@@ -22,8 +22,8 @@
         <mxCell id="9CSuGL6i2XqxzYFYNTwu-3" value="SDIO 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1081" y="866.5" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9CSuGL6i2XqxzYFYNTwu-6" value="&lt;b&gt;HDMI out&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="1369" y="555" width="120" height="60" as="geometry" />
+        <mxCell id="9CSuGL6i2XqxzYFYNTwu-6" value="&lt;b&gt;HDMI&lt;/b&gt;&lt;div&gt;&lt;b&gt;out&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1369" y="555" width="111" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9CSuGL6i2XqxzYFYNTwu-7" value="&lt;b&gt;EMMC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="980" y="815" width="70" height="60" as="geometry" />
