@@ -122,17 +122,6 @@
         <mxCell id="85vWp93jkx21iALrv6Tc-105" value="USB2.0 OTG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="755" y="478.25" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="85vWp93jkx21iALrv6Tc-108" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="HpVElSZyhF7xPj0saIUb-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="150" as="sourcePoint" />
-            <mxPoint x="970" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="150" />
-              <mxPoint x="640" y="490" />
-              <mxPoint x="480" y="493" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="85vWp93jkx21iALrv6Tc-105" target="pwtXkA11epPTQpkq0u9u-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="460" as="sourcePoint" />
@@ -262,26 +251,29 @@
         <mxCell id="pwtXkA11epPTQpkq0u9u-1" value="usb2.0 hub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="980" y="110" width="81" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-2" value="GD32F407" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="v9vXRwwRbG3SJcoLFxHb-8" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="440" y="270" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-14" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="561" y="295" width="59" height="30" as="geometry" />
+        <mxCell id="HpVElSZyhF7xPj0saIUb-2" value="GD32F407" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="v9vXRwwRbG3SJcoLFxHb-8" vertex="1">
+          <mxGeometry width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-24" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="561" y="340" width="59" height="30" as="geometry" />
+        <mxCell id="HpVElSZyhF7xPj0saIUb-14" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="v9vXRwwRbG3SJcoLFxHb-8" vertex="1">
+          <mxGeometry x="121" y="25" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-4" value="USB2.FS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="355" width="59" height="30" as="geometry" />
+        <mxCell id="HpVElSZyhF7xPj0saIUb-24" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="v9vXRwwRbG3SJcoLFxHb-8" vertex="1">
+          <mxGeometry x="121" y="70" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9vXRwwRbG3SJcoLFxHb-5" value="USB2.HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="295" width="59" height="30" as="geometry" />
+        <mxCell id="HpVElSZyhF7xPj0saIUb-4" value="USB2.FS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" parent="v9vXRwwRbG3SJcoLFxHb-8" vertex="1">
+          <mxGeometry y="85" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9vXRwwRbG3SJcoLFxHb-6" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="59" height="30" as="geometry" />
+        <mxCell id="v9vXRwwRbG3SJcoLFxHb-5" value="USB2.HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" vertex="1" parent="v9vXRwwRbG3SJcoLFxHb-8">
+          <mxGeometry y="25" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v9vXRwwRbG3SJcoLFxHb-7" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="561" y="390" width="59" height="30" as="geometry" />
+        <mxCell id="v9vXRwwRbG3SJcoLFxHb-6" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v9vXRwwRbG3SJcoLFxHb-8">
+          <mxGeometry y="130" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v9vXRwwRbG3SJcoLFxHb-7" value="SPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="v9vXRwwRbG3SJcoLFxHb-8">
+          <mxGeometry x="121" y="120" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
