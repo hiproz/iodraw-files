@@ -72,12 +72,9 @@
         <mxCell id="85vWp93jkx21iALrv6Tc-13" value="Uart1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="755" y="555" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="85vWp93jkx21iALrv6Tc-24" value="ATX typeC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="10" y="656.25" width="110" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="85vWp93jkx21iALrv6Tc-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.001;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="85vWp93jkx21iALrv6Tc-24" target="OE6j2u9FT9QKLkBRPnEU-1" edge="1">
+        <mxCell id="85vWp93jkx21iALrv6Tc-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.001;entryY=0.723;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="OE6j2u9FT9QKLkBRPnEU-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="932" as="sourcePoint" />
+            <mxPoint x="65" y="711.25" as="sourcePoint" />
             <mxPoint x="279" y="988" as="targetPoint" />
             <Array as="points">
               <mxPoint x="65" y="835" />
@@ -198,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oveiOlvz-zRsiQHKTwsT-1" value="Power Supply①&lt;div&gt;5-12V&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="170" y="781" width="110" height="54.5" as="geometry" />
+          <mxGeometry x="210" y="781" width="70" height="109" as="geometry" />
         </mxCell>
         <mxCell id="oveiOlvz-zRsiQHKTwsT-7" value="显示屏1.14寸&lt;div&gt;MiPi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1462" y="502.88" width="89" height="36.25" as="geometry" />
