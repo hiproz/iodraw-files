@@ -149,9 +149,6 @@
         <mxCell id="85vWp93jkx21iALrv6Tc-101" value="Uart2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="994.5" y="420" width="89" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="85vWp93jkx21iALrv6Tc-104" value="usb2.0&lt;br&gt;&lt;div&gt;高速模拟开关&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="475" y="554" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="85vWp93jkx21iALrv6Tc-105" value="USB2.0 OTG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="755" y="478.25" width="89" height="30" as="geometry" />
         </mxCell>
@@ -161,6 +158,7 @@
             <mxPoint x="970" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="640" y="150" />
+              <mxPoint x="640" y="490" />
               <mxPoint x="480" y="493" />
             </Array>
           </mxGeometry>
