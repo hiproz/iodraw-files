@@ -251,24 +251,6 @@
         <mxCell id="HpVElSZyhF7xPj0saIUb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HpVElSZyhF7xPj0saIUb-24" target="HpVElSZyhF7xPj0saIUb-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7sBMBziqThZriW8k0H2S-8" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="450" y="270" width="139" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-2" value="GD32F407" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="7sBMBziqThZriW8k0H2S-8" vertex="1">
-          <mxGeometry width="120" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-1" value="USB2.FS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=50;" parent="7sBMBziqThZriW8k0H2S-8" vertex="1">
-          <mxGeometry y="25" width="59" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-14" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7sBMBziqThZriW8k0H2S-8" vertex="1">
-          <mxGeometry x="61" y="25" width="59" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-24" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7sBMBziqThZriW8k0H2S-8" vertex="1">
-          <mxGeometry x="61" y="64" width="59" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-4" value="USB2.HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" parent="7sBMBziqThZriW8k0H2S-8" vertex="1">
-          <mxGeometry x="80" y="-5" width="59" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="7sBMBziqThZriW8k0H2S-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HpVElSZyhF7xPj0saIUb-1" target="85vWp93jkx21iALrv6Tc-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -282,6 +264,21 @@
         </mxCell>
         <mxCell id="pwtXkA11epPTQpkq0u9u-1" value="usb2.0 hub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="980" y="110" width="81" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-2" value="GD32F407" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="270" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-1" value="USB2.FS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="450" y="295" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-14" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="511" y="295" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-24" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="511" y="334" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HpVElSZyhF7xPj0saIUb-4" value="USB2.HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="509" y="265" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
