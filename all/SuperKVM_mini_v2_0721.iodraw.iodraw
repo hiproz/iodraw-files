@@ -166,7 +166,7 @@
           <mxGeometry x="210" y="781" width="70" height="109" as="geometry" />
         </mxCell>
         <mxCell id="oveiOlvz-zRsiQHKTwsT-7" value="显示屏1.14寸&lt;div&gt;MiPi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1462" y="502.88" width="89" height="36.25" as="geometry" />
+          <mxGeometry x="1400" y="499.75" width="89" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="YmQcqY68oottdXtq0iwH-1" value="USB&amp;nbsp;&lt;div&gt;&amp;nbsp;Type C Port③&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1241" y="142.5" width="70" height="105" as="geometry" />
@@ -218,7 +218,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-13" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1471" y="384" width="59" height="30" as="geometry" />
+          <mxGeometry x="1395.5" y="384.5" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HpVElSZyhF7xPj0saIUb-14" target="HpVElSZyhF7xPj0saIUb-13" edge="1">
           <mxGeometry relative="1" as="geometry">
