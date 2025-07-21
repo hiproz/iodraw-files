@@ -104,7 +104,7 @@
           <mxGeometry x="1081" y="653.75" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oveiOlvz-zRsiQHKTwsT-1" value="Power Supply①&lt;div&gt;5-12V&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="265" y="886" width="110" height="54.5" as="geometry" />
+          <mxGeometry x="240" y="886" width="60" height="94" as="geometry" />
         </mxCell>
         <mxCell id="YmQcqY68oottdXtq0iwH-1" value="USB&amp;nbsp;&lt;div&gt;&amp;nbsp;Type C Port③&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1241" y="142.5" width="70" height="105" as="geometry" />
