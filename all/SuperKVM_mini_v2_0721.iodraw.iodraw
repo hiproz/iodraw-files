@@ -153,6 +153,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="173" />
+              <mxPoint x="850" y="173" />
+              <mxPoint x="850" y="218" />
             </Array>
             <mxPoint x="924.5" y="195" as="targetPoint" />
           </mxGeometry>
@@ -305,7 +307,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pwtXkA11epPTQpkq0u9u-1" value="usb2.0 hub" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="979" y="165" width="81" height="105" as="geometry" />
+          <mxGeometry x="979" y="130" width="81" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
