@@ -277,6 +277,12 @@
         <mxCell id="v9vXRwwRbG3SJcoLFxHb-5" value="USB2.HS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="295" width="59" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="v9vXRwwRbG3SJcoLFxHb-6" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="571" y="350" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v9vXRwwRbG3SJcoLFxHb-7" value="USART" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="561" y="385" width="59" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
