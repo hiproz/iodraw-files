@@ -251,8 +251,10 @@
         <mxCell id="HpVElSZyhF7xPj0saIUb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="HpVElSZyhF7xPj0saIUb-24" target="HpVElSZyhF7xPj0saIUb-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7sBMBziqThZriW8k0H2S-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HpVElSZyhF7xPj0saIUb-1" target="85vWp93jkx21iALrv6Tc-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7sBMBziqThZriW8k0H2S-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="85vWp93jkx21iALrv6Tc-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440.00000000000045" y="310" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pwtXkA11epPTQpkq0u9u-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pwtXkA11epPTQpkq0u9u-1" target="YmQcqY68oottdXtq0iwH-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -267,9 +269,6 @@
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-2" value="GD32F407" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="270" width="180" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="HpVElSZyhF7xPj0saIUb-1" value="USB2.FS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="440" y="295" width="59" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HpVElSZyhF7xPj0saIUb-14" value="SD 接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="511" y="325" width="59" height="30" as="geometry" />
